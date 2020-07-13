@@ -1,0 +1,3 @@
+BEGIN;
+ALTER TABLE users ADD COLUMN field text;
+COMMIT;
